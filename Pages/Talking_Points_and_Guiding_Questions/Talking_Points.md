@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core Values and Talking Points
-nav_order: 3
+nav_order: 4
 ---
 
 Below are my core values, main talking points and guiding questions to help you get to know more about me and my views on key issues. 
