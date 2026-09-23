@@ -6,7 +6,7 @@ nav_order: 2
 
 # About Me
 
-(put photo here)
+![Headshot of Katherine Ellis](ME6A6692.jpg)
 
 Hi my name is Katherine Ellis!
 
