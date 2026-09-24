@@ -4,13 +4,17 @@ layout: home
 nav_order: 1
 ---
 
-# Hello, My name is Katherine Ellis and I am running for Campus Chief Steward (CCS) of NUGW. 
+# Hello, we are Ed, Yuhan and Katherine and are collectivly endorsing eachother for the roles of President, Vice President of Membership, and Campus Chief Steward respectivly!
 
-Thank you for considering me for the role of CCS and wanting to learn more about me!
+Thank you for considering us for these roles and wanting to learn more about us!
 
-On this site you can find my candidate statement and more information about my guiding values, how I plan to address concerns, and answers to questions some of our fellow workers have asked me. 
+On this site you can find our candidate statements and more information about our guiding values, how we plan to address concerns, and answers to questions some of our fellow workers have asked us. 
 
-If you want to find out more than what's on this site feel free to contact me at [katell@u.northwestern.edu](katell@u.northwestern.edu)!
+If you want to find out more than what's on this site feel free to contact us:
+
+Ed: [katell@u.northwestern.edu](katell@u.northwestern.edu)!
+Yuhan: [katell@u.northwestern.edu](katell@u.northwestern.edu)!
+Katherine: [katell@u.northwestern.edu](katell@u.northwestern.edu)!
 
 ----
 

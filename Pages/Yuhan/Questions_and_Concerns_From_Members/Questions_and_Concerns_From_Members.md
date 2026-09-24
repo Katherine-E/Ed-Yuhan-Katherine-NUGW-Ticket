@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Questions and Concerns From Members
-parent: Katherine for Campus Chief Steward
+parent: Yuhan for Vice President of Membership
 nav_order: 5
 ---

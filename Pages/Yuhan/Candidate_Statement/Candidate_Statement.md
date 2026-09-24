@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Candidate Statement
-parent: Katherine for Campus Chief Steward
+parent: Yuhan for Vice President of Membership
 nav_order: 3
 ---
 

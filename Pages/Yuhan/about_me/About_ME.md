@@ -1,9 +1,10 @@
 ---
 layout: default
 title: About Me
-parent: Ed for President
+parent: Yuhan for Vice President of Membership
 nav_order: 2
 ---
 
 # About Me
+
 
