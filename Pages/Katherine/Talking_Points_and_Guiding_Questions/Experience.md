@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Experience
-parent: Core Values and Talking Points
+parent: Katherine's Core Values and Talking Points
 nav_order: 6
 ---
 
