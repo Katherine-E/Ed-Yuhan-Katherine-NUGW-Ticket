@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core Values
-parent: Core Values and Talking Points - Yuhan
+parent: Core Values and Talking Points For Yuhan
 nav_order: 1
 ---
 
