@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core Values
-parent: Core Values and Talking Points
+parent: Katherine's Core Values and Talking Points
 nav_order: 1
 ---
 
