@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Why am I the best candidate for this role?
-parent: Core Values and Talking Points
+parent: Katherine's Core Values and Talking Points
 nav_order: 5
 ---
 
