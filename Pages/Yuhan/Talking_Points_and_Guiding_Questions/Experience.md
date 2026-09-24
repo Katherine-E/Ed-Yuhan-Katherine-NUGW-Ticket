@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Experience
-parent: Core Values and Talking Points - Yuhan
+parent: Core Values and Talking Points For Yuhan
 nav_order: 6
 ---
 
