@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How I got Started with NUGW
-parent: Core Values and Talking Points
+parent: Core Values and Talking Points - Yuhan
 nav_order: 3
 ---
 
