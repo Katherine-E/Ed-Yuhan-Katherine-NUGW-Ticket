@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Core Values and Talking Points - Yuhan
+title: Core Values and Talking Points For Yuhan
 parent: Yuhan for Vice President of Membership
 nav_order: 4
 ---
