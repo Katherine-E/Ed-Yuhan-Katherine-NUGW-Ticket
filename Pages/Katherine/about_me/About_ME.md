@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+parent: Katherine for Campus Chief Steward
 nav_order: 2
 ---
 
