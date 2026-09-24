@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Vision
-parent: Core Values and Talking Points
+parent: Ed's Core Values and Talking Points
 nav_order: 2
 ---
 
