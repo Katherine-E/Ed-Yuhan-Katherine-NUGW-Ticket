@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Core Values and Talking Points
+title: Ed's Core Values and Talking Points
 parent: Ed for President
 nav_order: 4
 ---
