@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bargaining
-parent: Questions and Concerns From Members
+parent: Questions and Concerns From Members For Yuhan
 nav_order: 4
 ---
 
