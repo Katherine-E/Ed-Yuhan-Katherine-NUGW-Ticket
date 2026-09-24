@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Core Values and Talking Points
+title: Katherine's Core Values and Talking Points
 parent: Katherine for Campus Chief Steward
 nav_order: 4
 ---
