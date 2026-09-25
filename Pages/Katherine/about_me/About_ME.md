@@ -7,6 +7,8 @@ nav_order: 2
 
 # About Me
 
+<img src="../../../Photos/ME6A6692-lower.jpg" width="400" alt="Katherine headshot">
+
 Hi my name is Katherine Ellis!
 
 I am a second year PhD student in chemical and biological engineering in the King group. I grew up in Missouri and did my undergrad at the University of Michigan. 
