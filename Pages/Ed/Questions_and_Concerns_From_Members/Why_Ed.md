@@ -5,6 +5,8 @@ parent: Questions and Concerns From Members For Ed
 nav_order: 1
 ---
 
+----
+
 ## The President role is one of the most difficult and intense roles of the LEB and has a steep learning curve. Why do you think you’d be better-suited for the role than the incumbent? This is a bargaining year. Why would I take a risk on someone new if the incumbent is already doing a fine job?
 
 
