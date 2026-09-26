@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hearing Members Voices
-parent: Questions and Concerns From Members For Yuhan
+parent: Questions and Concerns From Members For Ed
 nav_order: 6
 ---
 
