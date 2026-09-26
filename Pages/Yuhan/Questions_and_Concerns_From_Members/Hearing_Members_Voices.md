@@ -5,6 +5,8 @@ parent: Questions and Concerns From Members For Yuhan
 nav_order: 6
 ---
 
+----
+
 ## There has been significant discussion, both during the last contract cycle and leading into the current one, about how members’ voices should be incorporated into the bargaining process. What is your vision for how members can learn about and provide feedback into the course of bargaining? Will the opinions of those in and out of the BU be considered differently? What does rank-and-file democracy look like between the time that the BC is elected and the contact is voted on?
 
 - Weekly bargaining updates: proposals, admin responses, movement, and unresolved issues.

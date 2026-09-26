@@ -5,6 +5,8 @@ parent: Questions and Concerns From Members For Yuhan
 nav_order: 3
 ---
 
+----
+
 ## Experienced UE negotiators like Kim Lawson provided instrumental guidance to the first BC, helping us win an exceptionally strong first contract (especially compared to the first contracts of peer unions like UIC). What’s so wrong about voting for other candidates who have a strong track record of heeding advice from UE organizers and/or GEB?
 
 To be honest, I don’t think there’s anything wrong with voting for any candidate. Voting for candidate A doesn’t mean candidate B is necessarily incompetent. People come in with different beliefs and priorities, and candidates are always going to be different. It’s our job to explain what we believe in clearly, and may the person who best represents what most members want win.

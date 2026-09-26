@@ -5,6 +5,8 @@ parent: Questions and Concerns From Members For Yuhan
 nav_order: 2
 ---
 
+----
+
 ## Do you feel that as an international worker and all the burdens that come with that,  you will be able to perform your duties as VP? 
 
 I agree that I probably won’t get asked this question. Most people I’ve talked to see my international background as a strength, though I’m also aware of the risk of being tokenized.

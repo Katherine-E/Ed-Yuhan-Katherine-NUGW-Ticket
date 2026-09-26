@@ -5,6 +5,8 @@ parent: Questions and Concerns From Members For Yuhan
 nav_order: 4
 ---
 
+----
+
 ## The constitutional duties of the VP for Membership includes spearheading membership enforcement, which usually requires a lot of listwork and other work that isn’t as “glamorous”/member-facing or immediately gratifying as organizing/activism. Could you speak to any experiences or aptitude you have that would make you well-suited for that type of work?
 
 I have experience organizing and leading multi-day backpacking trips, where my responsibilities extended well beyond leading the group in the field. I recruited and screened participants, managed surveys and spreadsheets, coordinated logistics, planned routes and itineraries, and prepared the group before departure.
