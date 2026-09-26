@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why I'm Not Running On A Slate
+title: History with Labor
 parent: Questions and Concerns From Members For Ed
 nav_order: 9
 ---
