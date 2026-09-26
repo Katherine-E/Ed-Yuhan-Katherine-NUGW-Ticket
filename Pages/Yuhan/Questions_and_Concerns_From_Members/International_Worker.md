@@ -9,15 +9,15 @@ nav_order: 2
 
 ## Do you feel that as an international worker and all the burdens that come with that,  you will be able to perform your duties as VP? 
 
-I agree that I probably won’t get asked this question. Most people I’ve talked to see my international background as a strength, though I’m also aware of the risk of being tokenized.
+Most people I’ve talked to see my international background as a strength, though I’m also aware of the risk of being tokenized.
 
-If I do get asked, I would say that everyone is carrying struggles that other people may not see, and that’s part of why we organize: we understand, empathize, and stand together.
+Everyone is carrying struggles that other people may not see, and that’s part of why we organize: we understand, empathize, and stand together.
 
 As an international graduate worker and organizer, I personally know the stress, uncertainty, and extra burdens that many international workers live with. That doesn’t make me less able to do this job. It’s actually one of the biggest reasons I want to do it. I want other people to have to carry less of that fear and uncertainty than I have.
 
 At the same time, I don’t assume my experience represents every international worker. Our situations can be very different. My job is to listen, collect information, make sure different groups have space to speak for themselves, and help turn those different needs into collective action for better protections and benefits.
 
-(For the record, this doesn’t mean I would only advocate for international students’ rights and benefits. This question is specifically about my international identity, so I’m focusing on that part of my experience here. My answers to the other questions speak more broadly to my overall vision for the VP role and for supporting all of our members.)
+Of course, this doesn’t mean I would only advocate for international students’ rights and benefits. I want to hear from and work with all workers. We all deserve a dignified, protected workplace.
 
 
 ----
