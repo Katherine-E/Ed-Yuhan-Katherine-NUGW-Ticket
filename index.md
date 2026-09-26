@@ -12,8 +12,8 @@ On this site you can find our candidate statements and more information about ou
 
 If you want to find out more than what's on this site feel free to contact us:
 
-Ed: [katell@u.northwestern.edu](katell@u.northwestern.edu)!
-Yuhan: [katell@u.northwestern.edu](katell@u.northwestern.edu)!
+Ed: [EdwardSkrabacz2030@u.northwestern.edu](EdwardSkrabacz2030@u.northwestern.edu)!
+Yuhan: [YuhanZang2029@u.northwestern.edu](YuhanZang2029@u.northwestern.edu)!
 Katherine: [katell@u.northwestern.edu](katell@u.northwestern.edu)!
 
 ----
