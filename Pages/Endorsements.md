@@ -16,15 +16,15 @@ Abhi Ramakrishnan, current Division Chief Steward Feinberg
 
 ## Former Bargaining Committee Members
 
-Drew Weidner, former Bargaining Committee member and current local steward (Chemical and Biological Engineering, McCormick)
-
 Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg). 
+
+Drew Weidner, former Bargaining Committee member and current local steward (Chemical and Biological Engineering, McCormick)
 
 ## Former Executive Board Members
 
-Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024, McCormick
+Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg).
 
-Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg). 
+Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024, McCormick 
 
 ## Other NUGW members and Stewards
 
@@ -34,5 +34,6 @@ Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
 Aaron Scheiner, Local Steward ESAM, McCormick
 
+Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
 
-
+Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
