@@ -32,6 +32,8 @@ Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Wei
 
 Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
 
+Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
+
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
 Aaron Scheiner, Local Steward ESAM, McCormick
@@ -40,4 +42,3 @@ Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
 
 Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
 
-Tisha Dash, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
