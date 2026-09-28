@@ -14,6 +14,8 @@ Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area
 
 Abhi Ramakrishnan, current Division Chief Steward Feinberg
 
+Erin Hugee, current Communications Secretary
+
 ## Former Bargaining Committee Members
 
 Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg). 
