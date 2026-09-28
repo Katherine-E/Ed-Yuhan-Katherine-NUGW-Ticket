@@ -24,7 +24,7 @@ On this site you can find our candidate statements and more information about ou
       <span class="card-more">Read about Ed &rarr;</span>
     </a>
     <a class="card" href="{% link Pages/Yuhan/Yuhan.md %}">
-      <span class="card-role">VP of Membership</span>
+      <span class="card-role">VP for Membership</span>
       <span class="card-name">Yuhan</span>
       <span class="card-more">Read about Yuhan &rarr;</span>
     </a>
