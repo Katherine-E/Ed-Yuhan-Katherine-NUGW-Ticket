@@ -13,7 +13,7 @@ nav_order: 1
 Thank you for considering us for these roles and wanting to learn more about us!
 {: #learn-more}
 
-On this site you can find our candidate statements and more information about our guiding values, how we plan to address concerns, and answers to questions some of our fellow workers have asked us.
+On this site you can find out more about us and our candidate statements with more to come!
 
 <div class="band full-bleed">
   <p class="eyebrow">Meet the ticket</p>
