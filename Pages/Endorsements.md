@@ -26,6 +26,8 @@ Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, A
 
 ## Other NUGW members and Stewards
 
+Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
+
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
 Aaron Scheiner, Local Steward ESAM, McCormick
