@@ -42,3 +42,5 @@ Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
 
 Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
 
+Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
+
