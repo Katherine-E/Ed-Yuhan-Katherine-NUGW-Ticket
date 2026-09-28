@@ -48,3 +48,5 @@ Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
 
 Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
 
+Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
+
