@@ -30,10 +30,14 @@ Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024,
 
 Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
 
+Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
+
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
 Aaron Scheiner, Local Steward ESAM, McCormick
 
-Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
-
 Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
+
+Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
+
+Tisha Dash, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
