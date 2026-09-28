@@ -10,7 +10,7 @@ nav_order: 5
 
 Yara Maalouf, current Vice President for Membership
 
-Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward (w/ presidential candidate Ed) and former Area Chief Steward for IBiS
+Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
 ## Former Bargaining Committee Members
 
@@ -18,10 +18,15 @@ Drew Weidner, former Bargaining Committee member and current local steward (Chem
 
 ## Former Executive Board Members
 
-Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward, McCormick
+Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024, McCormick
+
+Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg). 
 
 ## Other NUGW members and Stewards
 
-Megan Burns, Area Chief Steward - Weinberg HSS, SESP, SPS
+Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
+
+Aaron Scheiner, Local Steward ESAM, McCormick
+
 
 
