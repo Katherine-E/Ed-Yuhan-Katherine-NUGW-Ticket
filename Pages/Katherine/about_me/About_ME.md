@@ -7,7 +7,7 @@ nav_order: 1
 
 # About Me
 
-<img src="../../../Photos/ME6A6692.jpg" width="400" alt="Katherine headshot">
+<img src="../../../Photos/ME6A6692.jpg" width="200" alt="Katherine headshot">
 
 Hi my name is Katherine Ellis!
 
