@@ -6,7 +6,7 @@ nav_order: 5
 
 # Endorsments
 
-Yara Al Maalouf, current Vice President for Membership
+Yara Maalouf, current Vice President for Membership
 
 Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward, McCormick
 
