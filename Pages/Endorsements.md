@@ -44,3 +44,7 @@ Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
 
 Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
 
+Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
+
+Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
+
