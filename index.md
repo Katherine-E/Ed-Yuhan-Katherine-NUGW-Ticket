@@ -6,7 +6,7 @@ nav_order: 1
 
 <div class="hero">
   <h1>Hello, we are Ed, Yuhan &amp; Katherine</h1>
-  <p class="hero-lede">We are collectively endorsing each other for the roles of President, Vice President of Membership, and Campus Chief Steward.</p>
+  <p class="hero-lede">We are collectively endorsing each other for the roles of President, Vice President for Membership, and Campus Chief Steward.</p>
   <a class="hero-scroll" href="#learn-more" aria-label="Scroll to learn more">&darr;</a>
 </div>
 
