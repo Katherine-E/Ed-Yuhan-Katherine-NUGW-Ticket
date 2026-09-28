@@ -41,7 +41,7 @@ On this site you can find our candidate statements and more information about ou
   <p>If you want to find out more than what's on this site, feel free to contact us.</p>
   <ul class="contact-list">
     <li><span>Ed</span> <a href="mailto:edward.skrabacz@u.northwestern.edu">edward.skrabacz@u.northwestern.edu</a></li>
-    <li><span>Yuhan</span> <a href="mailto:YuhanZang2029@u.northwestern.edu">YuhanZang2029@u.northwestern.edu</a></li>
+    <li><span>Yuhan</span> <a href="mailto:YuhanZhang2029@u.northwestern.edu">YuhanZhang2029@u.northwestern.edu</a></li>
     <li><span>Katherine</span> <a href="mailto:katell@u.northwestern.edu">katell@u.northwestern.edu</a></li>
   </ul>
 </div>
