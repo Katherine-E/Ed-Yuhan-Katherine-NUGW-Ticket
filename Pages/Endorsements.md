@@ -12,6 +12,8 @@ Yara Maalouf, current Vice President for Membership
 
 Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
+Abhi Ramakrishnan, current Division Chief Steward Feinberg
+
 ## Former Bargaining Committee Members
 
 Drew Weidner, former Bargaining Committee member and current local steward (Chemical and Biological Engineering, McCormick)
