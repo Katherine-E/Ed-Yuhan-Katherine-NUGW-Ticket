@@ -4,7 +4,7 @@ layout: default
 nav_order: 5
 ---
 
-# Endorsments
+# Endorsements
 
 Yara Maalouf, current Vice President for Membership
 
