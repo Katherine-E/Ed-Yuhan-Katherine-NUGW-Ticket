@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-parent: Yuhan for Vice President of Membership
+parent: Yuhan for Vice President for Membership
 nav_order: 1
 ---
 
