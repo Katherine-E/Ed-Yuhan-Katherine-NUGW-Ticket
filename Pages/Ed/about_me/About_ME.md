@@ -7,4 +7,4 @@ nav_order: 1
 
 # About Me
 
-<img src="../../../Photos/ed_headshot.jpeg" width="400" alt="Ed headshot">
+<img src="../../../Photos/ed_headshot.jpeg" width="200" alt="Ed headshot">
