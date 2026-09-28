@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Yuhan for Vice President of Membership
+title: Yuhan for Vice President for Membership
 nav_order: 3
 ---
