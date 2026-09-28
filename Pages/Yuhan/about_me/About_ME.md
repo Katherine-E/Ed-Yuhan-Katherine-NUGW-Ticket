@@ -12,7 +12,7 @@ nav_order: 1
 
 Hi everyone! I’m so excited to meet you here virtually!
 
-My name is Yuhan Zhang, and I’m a third-year PhD student in Communication Sciences and Disorders. I’m an international student from China, and this is also my third year living in Chicago.
+My name is Yuhan Zhang, and I’m a third-year graduate worker in Communication Sciences and Disorders. I’m an international student from China, and this is also my third year living in Chicago.
 
 I’ve always loved living in different places and meeting people from different cultural backgrounds. I speak Chinese, English, and Spanish. I’m constantly signing up for more languages on Duolingo while hoping I can actually keep the streak going!
 
