@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 parent: Ed for President
-nav_order: 2
+nav_order: 1
 ---
 
 # About Me
