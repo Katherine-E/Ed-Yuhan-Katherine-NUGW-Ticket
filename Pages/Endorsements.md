@@ -5,21 +5,21 @@ nav_order: 5
 ---
 
 # Endorsements
-**Current candidate for an executive board positon*
+**Current candidate for an executive board position*
 
 ## Current Executive Board Members
+
+*Erin Hugee, current Communications Secretary
 
 Yara Maalouf, current Vice President for Membership
 
 Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
+*Sam Ozminkowski, current Treasurer and Stats and Data Sciences Local Steward and former ACS
+
 *Abhi Ramakrishnan, current Division Chief Steward Feinberg
 
-*Erin Hugee, current Communications Secretary
-
 *Pallavi Sundaram, current Division Chief Steward for McCormick, former Local Steward in Materials Science & Engineering
-
-*Sam Ozminkowski, current Treasurer and Stats and Data Sciences Local Steward and former ACS
 
 ## Former Bargaining Committee Members
 
@@ -37,32 +37,34 @@ Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024,
 
 Madeleine Vessely, former Division Chief Steward for Feinberg 2024 and 2025, current Area Chief Steward for Feinberg/DGP
 
-## Other NUGW members and Stewards
+## Other NUGW Stewards, Organizers, & Members
 
 *Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
 
-Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
-
 Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
-
-Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
-
-Aaron Scheiner, Local Steward ESAM, McCormick
-
-*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
-
-*Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
-
-Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
-
-Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
-
-Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
 
 Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
 
+*Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
+
+Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
+
 Hardeep Singh, DIAS participant, rank and file member
 
+Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
+
+Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
+
 Taylor Domingos, Chair of Title IX Working Group
+
+Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
+
+Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
+
+*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
+
+Aaron Scheiner, Local Steward ESAM, McCormick
+
+
 
 
