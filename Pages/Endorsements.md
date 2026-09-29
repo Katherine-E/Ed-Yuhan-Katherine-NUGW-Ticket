@@ -21,21 +21,17 @@ Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area
 
 *Pallavi Sundaram, current Division Chief Steward for McCormick, former Local Steward in Materials Science & Engineering
 
-## Former Bargaining Committee Members
+## Former Executive Board or Bargaining Committee Members
 
-Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg). 
+Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg)
 
-Drew Weidner, former Bargaining Committee member and current local steward (Chemical and Biological Engineering, McCormick)
-
-## Former Executive Board Members
-
-Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg).
-
-Nathaniel Hiott, former Division Chief Steward for McCormick, current Area Chief Steward in Materials Science and Engineering
+Nathaniel Hiott, former Division Chief Steward for McCormick 2024 and 2025, current Area Chief Steward in Materials Science and Engineering
 
 Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024, McCormick 
 
 Madeleine Vessely, former Division Chief Steward for Feinberg 2024 and 2025, current Area Chief Steward for Feinberg/DGP
+
+Drew Weidner, former Bargaining Committee member and current local steward (Chemical and Biological Engineering, McCormick)
 
 ## Other NUGW Stewards, Organizers, & Members
 
