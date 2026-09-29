@@ -19,7 +19,7 @@ Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area
 
 *Pallavi Sundaram, current Division Chief Steward for McCormick, former Local Steward in Materials Science & Engineering
 
-*Sam Ozminkowski, current Treasurer, former Local Steward in Statistics
+*Sam Ozminkowski, current Treasurer
 
 ## Former Bargaining Committee Members
 
