@@ -15,7 +15,7 @@ Yara Maalouf, current Vice President for Membership
 
 Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
-*Sam Ozminkowski, current Treasurer and Stats and Data Sciences Local Steward and former ACS
+*Sam Ozminkowski, current Treasurer, current Stats and Data Science Local Steward, and former ACS
 
 *Abhi Ramakrishnan, current Division Chief Steward Feinberg
 
