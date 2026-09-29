@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 # Endorsements
-**Current Candidate for an executive board positon*
+**Current candidate for an executive board positon*
 
 ## Current Executive Board Members
 
