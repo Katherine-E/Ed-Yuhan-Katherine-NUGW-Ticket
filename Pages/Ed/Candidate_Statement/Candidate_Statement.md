@@ -13,6 +13,6 @@ Throughout my past two years, I have fought alongside my fellow workers to force
 
 When I began my PhD here at Northwestern, the striking passion from the workers in NUGW immediately drew me in. At my first meeting, I immediately resonated with the notion that “the members run this union.” As President, this will be my guiding light as I foster a community of open and honest communication where members are unafraid to voice their concerns. It is vital that *all* members have a say in their next contract, which can be achieved through regularly occurring bargaining updates, steward outreach, and transparency in the bargaining process. By properly fostering connection between all members, we will create a collective force to be reckoned with!
 
-For more information about me and my campaign please visit my campaign website [https://katherine-e.github.io/Ed-Yuhan-Katherine-NUGW-Ticket/](https://katherine-e.github.io/Ed-Yuhan-Katherine-NUGW-Ticket/), or feel free to email me at [edward.skrabacz@u.northwestern.edu](edward.skrabacz@u.northwestern.edu), I’m always happy to chat :).
+For more information about me and my campaign feel free to email me at [edward.skrabacz@u.northwestern.edu](edward.skrabacz@u.northwestern.edu), I’m always happy to chat :).
 
 ----
