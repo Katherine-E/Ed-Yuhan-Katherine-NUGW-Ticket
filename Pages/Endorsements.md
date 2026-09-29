@@ -53,6 +53,8 @@ Taylor Domingos, Chair of Title IX Working Group
 
 Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
 
+Matthew Johnson, Bienen School of Music, Music Performance
+
 Aaron Scheiner, Local Steward ESAM, McCormick
 
 Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
