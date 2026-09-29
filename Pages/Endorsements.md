@@ -39,6 +39,8 @@ Drew Weidner, former Bargaining Committee member and current local steward (Chem
 
 *Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
 
+*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
+
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
 Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
@@ -58,8 +60,6 @@ Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
 Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
 
 Hardeep Singh, DIAS participant, rank and file member
-
-*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
 
 
 
