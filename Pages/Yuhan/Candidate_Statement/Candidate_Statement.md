@@ -13,6 +13,6 @@ If elected, I will work with other graduate workers to make our union more conne
 
 I will bring compassion, persistence, organization, and a willingness to listen and learn. Most of all, I hope we can build a union where people support one another and feel that this is truly something we create together.
 
-For more information about me and my campaign please visit my campaign website [https://katherine-e.github.io/Ed-Yuhan-Katherine-NUGW-Ticket/](https://katherine-e.github.io/Ed-Yuhan-Katherine-NUGW-Ticket/) and feel free to email me at [YuhanZhang2029@u.northwestern.edu](YuhanZhang2029@u.northwestern.edu). Let’s grab a coffee and chat!
+For more information about me and my campaign feel free to email me at [YuhanZhang2029@u.northwestern.edu](YuhanZhang2029@u.northwestern.edu). Let’s grab a coffee and chat!
 
 ----
