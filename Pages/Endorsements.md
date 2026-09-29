@@ -41,29 +41,29 @@ Madeleine Vessely, former Division Chief Steward for Feinberg 2024 and 2025, cur
 
 *Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
 
-Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
-
-Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
-
-*Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
-
-Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
-
-Hardeep Singh, DIAS participant, rank and file member
-
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
+
+Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
+
+Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
 
 Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
 
 Taylor Domingos, Chair of Title IX Working Group
 
-Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
+Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
 
-Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
-
-*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
+*Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
 
 Aaron Scheiner, Local Steward ESAM, McCormick
+
+Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
+
+Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
+
+Hardeep Singh, DIAS participant, rank and file member
+
+*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
 
 
 
