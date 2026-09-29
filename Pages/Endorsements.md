@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Endorsements
+**Current Candidate for an executive board positon*
 
 ## Current Executive Board Members
 
@@ -12,9 +13,9 @@ Yara Maalouf, current Vice President for Membership
 
 Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
-Abhi Ramakrishnan, current Division Chief Steward Feinberg
+*Abhi Ramakrishnan, current Division Chief Steward Feinberg
 
-Erin Hugee, current Communications Secretary
+*Erin Hugee, current Communications Secretary
 
 ## Former Bargaining Committee Members
 
@@ -32,7 +33,7 @@ Madeleine Vessely, former Division Chief Steward for Feinberg, current Area Chie
 
 ## Other NUGW members and Stewards
 
-Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
+*Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
 
 Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
 
@@ -42,7 +43,7 @@ Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
 Aaron Scheiner, Local Steward ESAM, McCormick
 
-Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
+*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
 
 Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
 
