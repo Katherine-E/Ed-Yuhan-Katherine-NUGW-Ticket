@@ -11,15 +11,15 @@ nav_order: 5
 
 *Erin Hugee, current Communications Secretary
 
-Yara Maalouf, current Vice President for Membership
-
-Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
-
 *Sam Ozminkowski, current Treasurer, current Stats and Data Science Local Steward, and former ACS
 
 *Abhi Ramakrishnan, current Division Chief Steward Feinberg
 
 *Pallavi Sundaram, current Division Chief Steward for McCormick, former Local Steward in Materials Science & Engineering
+
+Yara Maalouf, current Vice President for Membership
+
+Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
 ## Former Executive Board or Bargaining Committee Members
 
@@ -37,6 +37,8 @@ Drew Weidner, former Bargaining Committee member and current local steward (Chem
 
 *Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
 
+*Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
+
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
 Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
@@ -48,8 +50,6 @@ Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
 Taylor Domingos, Chair of Title IX Working Group
 
 Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
-
-*Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
 
 Aaron Scheiner, Local Steward ESAM, McCormick
 
