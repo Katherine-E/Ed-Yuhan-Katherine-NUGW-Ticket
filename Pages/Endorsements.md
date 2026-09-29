@@ -25,6 +25,8 @@ Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area
 
 Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg)
 
+Rivaan Kakkaramadam, Local Steward in IBiS, former Recording & Data Secretary 2025, former Communications Secretary 2024, Member & Co-Founder of Trans Rights Working Group 
+
 Nathaniel Hiott, former Division Chief Steward for McCormick 2024 and 2025, current Area Chief Steward in Materials Science and Engineering
 
 Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024, McCormick 
