@@ -28,6 +28,8 @@ Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, A
 
 Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024, McCormick 
 
+Madeleine Vessely, former Division Chief Steward for Feinberg, current Area Chief Steward for Feinberg/DGP
+
 ## Other NUGW members and Stewards
 
 Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
