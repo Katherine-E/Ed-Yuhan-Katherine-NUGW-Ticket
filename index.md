@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <div class="hero">
-  <h1>Hello, we are Katherine, Ed &amp; Yuhan - the KEY to your 2026 NUGW Board!</h1>
+  <h1>Hello, we are <u>K</u>atherine, <u>Ed</u> &amp; <u>Y</u>uhan - the <u>KEY</u> to your <u>2026 NUGW Board</u>!</h1>
   <p class="hero-lede">We are collectively endorsing each other for the roles of President, Vice President for Membership, and Campus Chief Steward in the 2026 NUGW Board Elections!</p>
   <a class="hero-scroll" href="#learn-more" aria-label="Scroll to learn more">&darr;</a>
 </div>
