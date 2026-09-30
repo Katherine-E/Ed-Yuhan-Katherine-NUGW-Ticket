@@ -65,6 +65,8 @@ Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/
 
 Hardeep Singh, DIAS participant, rank and file member
 
+Hrag Vosgerichian, rank and file member, Kellogg
+
 
 
 
