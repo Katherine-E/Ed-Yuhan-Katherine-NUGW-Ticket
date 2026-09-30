@@ -45,7 +45,7 @@ Drew Weidner, former Bargaining Committee member and current local steward (Chem
 
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
-Lourdes Castilla Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
+Lourdes Ixtzai Castillo Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
 
 Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
 
