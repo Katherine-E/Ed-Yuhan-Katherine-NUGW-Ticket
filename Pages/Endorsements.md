@@ -45,8 +45,6 @@ Drew Weidner, former Bargaining Committee member and current local steward (Chem
 
 Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
 
-Lourdes Ixtzai Castillo Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
-
 Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
 
 Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
@@ -54,6 +52,8 @@ Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
 Taylor Domingos, Chair of Title IX Working Group
 
 Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
+
+Lourdes Ixtzai Castillo Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
 
 Matthew Johnson, Bienen School of Music, Music Performance
 
