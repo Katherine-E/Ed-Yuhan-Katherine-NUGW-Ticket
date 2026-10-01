@@ -42,23 +42,22 @@ On this site you can find out more about us and our candidate statements with mo
     We believe that securing the best possible contract requires the engagement of every worker in our union. As a member of our union, <b>you deserve transparency and the tools to shape your union’s policies and priorities.</b>
   </p>
 
+  <h2>Building a member-run union</h2>
+  
+  <h3>Member-led organizing and decision-making</h3>
+  <p>We believe that our members are the highest authority in our union. This means using town halls and union meetings as a space for debate and sharing perspectives. Disagreements are natural for a group of three thousand workers. We must foster an open and respectful environment for discussions. We are also committed to enabling our General Member Meetings (GMM) to become the decision-making body in our union. By giving workers liberty to help create meeting agendas and bringing proposals for drafting and discussion before voting, we can focus the conversation on members’ issues and concerns. <b>Bargaining and the operations of our union should not only be clear and transparent to members - they should be the product of conversations with workers.</b></p>
+
+  <h3>Building coalitions around our common struggle</h3>
+  <p>Many active organizers and past leaders are supporting and shaping our tickets’ vision and organizing ahead of the next contract. Our working groups have organized many successful actions over the last few months, and we want to continue to build up their capacity and integrate them into bargaining preparations. We are also reaching existing leaders for department and advocacy groups to reach new graduate workers and bring them into our fight. <b>We can only build solidarity by connecting with and talking to as many workers as possible.</b> </p>
+
   <h2>Preparing for our contract fight</h2>
 
   <h3>Centering our workers in strike preparedness</h3>
-  <p>Striking will and should look different based on what work looks like for specific programs. We need to be hosting town halls, training stewards to lead discussions with every department to ensure we are maximizing pressure on the boss and reducing risk and fear for our coworkers. We plan to form a standing committee dedicated to leading the research and training efforts to ensure that a credible strike threat is attainable. </p>
+  <p>Striking will and should look different based on what work looks like for specific programs. We need to be hosting town halls, training stewards to lead discussions with every department to ensure we are maximizing pressure on the boss and reducing risk and fear for our coworkers. We plan to form a standing committee dedicated to leading the research and training efforts to ensure that a credible strike threat is attainable. <b>We only win what we are organized to take, the stronger our organizing the stronger the strike, which is the best display of our organizing.</b> </p>
 
   <h3>Protecting marginalized workers</h3>
-  <p>In order to be a member run union we must ensure that every member has access to union representation, resources, and the bargaining table, thus we will prioritize ensuring that every division and department has steward representation.</p>
-
-  <p>We uphold that as a member run union it is our job to protect all workers and to make decisions carefully to not put any worker in jeopardy, especially our international workers as they come under fire in the current political climate.</p>
-
-  <h2>Building a member-run union</h2>
-
-  <h3>Building coalitions around our common struggle</h3>
-  <p>Many active organizers and past leaders are supporting and shaping our tickets’ vision and organizing ahead of the next contract. We will build on this network to continue the conversations </p>
-
-  <h3>Member-led organizing and decision-making</h3>
-  <p>We will use spaces such as department town halls run by stewards, as well as CAT and GMM, to allow members to debate and share their perspectives. By giving workers liberty to help create meeting agendas we can focus on what our members actually care to talk and organize around. Disagreements are natural for a group of three thousand workers and for this reason we will foster an open and respectful environment for discussions.</p>
+  <p>All actions we take as a union must carefully consider the risks to our most vulnerable coworkers, including international and trans workers who are threatened by the current political climate. We must ensure that every member has access to union representation, resources, and the bargaining table. <b>This all starts with strengthening and activating our steward network and empowering stewards to speak up and take action. </b> </p>
+  
 </div>
 
 <div class="contact">
