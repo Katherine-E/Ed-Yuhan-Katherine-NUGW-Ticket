@@ -46,7 +46,7 @@ On this site you can find out more about us and our candidate statements with mo
   </ul>
 </div>
 
-<div class="band full-bleed">
+<div class="contact">
   <h1>Our collective vision for the upcoming year</h1>
   <p>
     We believe that securing the best possible contract requires the engagement of every worker in our union. As a member of our union, <b>you deserve transparency and the tools to shape your union’s policies and priorities.</b>
