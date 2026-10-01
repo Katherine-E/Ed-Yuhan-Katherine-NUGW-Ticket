@@ -37,16 +37,6 @@ On this site you can find out more about us and our candidate statements with mo
 </div>
 
 <div class="contact">
-  <h2>Get in touch</h2>
-  <p>If you want to find out more than what's on this site, feel free to contact us.</p>
-  <ul class="contact-list">
-    <li><span>Ed</span> <a href="mailto:edward.skrabacz@u.northwestern.edu">edward.skrabacz@u.northwestern.edu</a></li>
-    <li><span>Yuhan</span> <a href="mailto:YuhanZhang2029@u.northwestern.edu">YuhanZhang2029@u.northwestern.edu</a></li>
-    <li><span>Katherine</span> <a href="mailto:katell@u.northwestern.edu">katell@u.northwestern.edu</a></li>
-  </ul>
-</div>
-
-<div class="contact">
   <h1>Our collective vision for the upcoming year</h1>
   <p>
     We believe that securing the best possible contract requires the engagement of every worker in our union. As a member of our union, <b>you deserve transparency and the tools to shape your union’s policies and priorities.</b>
@@ -69,5 +59,15 @@ On this site you can find out more about us and our candidate statements with mo
 
   <h3>Member-led organizing and decision-making</h3>
   <p>We will use spaces such as department town halls run by stewards, as well as CAT and GMM, to allow members to debate and share their perspectives. By giving workers liberty to help create meeting agendas we can focus on what our members actually care to talk and organize around. Disagreements are natural for a group of three thousand workers and for this reason we will foster an open and respectful environment for discussions.</p>
+</div>
+
+<div class="contact">
+  <h2>Get in touch</h2>
+  <p>If you want to find out more than what's on this site, feel free to contact us.</p>
+  <ul class="contact-list">
+    <li><span>Ed</span> <a href="mailto:edward.skrabacz@u.northwestern.edu">edward.skrabacz@u.northwestern.edu</a></li>
+    <li><span>Yuhan</span> <a href="mailto:YuhanZhang2029@u.northwestern.edu">YuhanZhang2029@u.northwestern.edu</a></li>
+    <li><span>Katherine</span> <a href="mailto:katell@u.northwestern.edu">katell@u.northwestern.edu</a></li>
+  </ul>
 </div>
 
