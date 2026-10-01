@@ -57,6 +57,8 @@ Jorin Graham, former chair of International Working Group (DIAS), former chair o
 
 Matthew Johnson, Bienen School of Music, Music Performance
 
+Matthew Lucia, Chemical and Biological Engineering Area Chief Steward
+
 Aaron Scheiner, Local Steward ESAM, McCormick
 
 Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
