@@ -21,7 +21,7 @@ Yara Maalouf, current Vice President for Membership
 
 Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
-Ziza Nshakira, Financial Secretary, School of Comms
+Ziza Nshakira, Financial Secretary, School of Comms 
 
 ## Former Executive Board or Bargaining Committee Members
 
