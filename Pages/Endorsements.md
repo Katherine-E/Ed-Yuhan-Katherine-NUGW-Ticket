@@ -21,6 +21,8 @@ Yara Maalouf, current Vice President for Membership
 
 Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
 
+Ziza Nshakira, Financial Secretary, School of Comms
+
 ## Former Executive Board or Bargaining Committee Members
 
 Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg)
