@@ -7,71 +7,75 @@ nav_order: 5
 # Endorsements
 **Current candidate for an executive board position*
 
+We’re proud to share that our coalition has earned endorsements from Chairs of <ins>_every_ NUGW Working Group</ins> and from members in <ins>_every_ NU division</ins>! Together, we are committed to the strong, member-driven fight that we deserve – and we’re just getting started.
+
 ## Current Executive Board Members
 
-*Erin Hugee, current Communications Secretary
+*Erin Hugee, Communications Secretary – Psychology, Weinberg HSS/SESP/SPS
 
-*Sam Ozminkowski, current Treasurer, current Stats and Data Science Local Steward, and former ACS
+*Sam Ozminkowski, Treasurer, Local Steward – Statistics + Data Science, Weinberg STEM
 
-*Abhi Ramakrishnan, current Division Chief Steward Feinberg
+*Abhi Ramakrishnan, Division Chief Steward – Driskill Graduate Program in Life Sciences, Feinberg
 
-*Pallavi Sundaram, current Division Chief Steward for McCormick, former Local Steward in Materials Science & Engineering
+*Pallavi Sundaram, Division Chief Steward, former Local Steward 2025 – Materials Science & Engineering, McCormick
 
-Yara Maalouf, current Vice President for Membership
+Yara Maalouf, Vice President for Membership – Chemical and Biological Engineering, McCormick
 
-Genevieve Nemeth, current Weinberg STEM Divisional Chief Steward and former Area Chief Steward in IBiS
+Genevieve Nemeth, Division Chief Steward, former Area Chief Steward 2024 and 2025 – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
-Ziza Nshakira, Financial Secretary, School of Comms 
+Ziza Nshakira, Financial Secretary – Screen Cultures, School of Communication
 
-## Former Executive Board or Bargaining Committee Members
+## Working Group Chairs
 
-Peter Cummings, former Campus Chief Steward 2025, Bargaining Committee member, Area Chief Steward (Feinberg), and current local steward in Clinical Psychology (Feinberg)
+*Defne Bish, Chair of International Working Group (DIAS), Local Steward – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
-Nathaniel Hiott, former Division Chief Steward for McCormick 2024 and 2025, current Area Chief Steward in Materials Science and Engineering
+Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward, Co-VP for Graduate International Student Association (GISA) – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
-Rivaan Kakkaramadam, current Local Steward in IBIS, former Recording & Data Secretary 2025, former Communications Secretary 2024, Member & Co-Founder of Trans Rights Working Group
+Taylor Domingos, Chair of Title IX Working Group – Sociology, Weinberg HSS/SESP/SPS
 
-Divjyot Singh, Area Chief Steward ESAM+IEMS, former Division Chief Steward 2024, McCormick 
+Jorin Graham, former Chair of International Working Group (DIAS), former Chair of Walkthrough Team, former Local Steward – Physics & Astronomy, Weinberg STEM
 
-Madeleine Vessely, former Division Chief Steward for Feinberg 2024 and 2025, current Area Chief Steward for Feinberg/DGP
+Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
-Drew Weidner, former Bargaining Committee member and current local steward (Chemical and Biological Engineering, McCormick)
+## Former Executive Board, Bargaining Committee, Constitution Committee Members
 
-## Other NUGW Stewards, Organizers, & Members
+Peter Cummings, former Campus Chief Steward 2025, former Bargaining Committee 2024, former Area Chief Steward 2024, current Local Steward – Clinical Psychology, Feinberg
 
-*Defne Bish, Chair of International Working Group (DIAS), Local Steward IBIS, Weinberg STEM
+Nathaniel Hiott, former Division Chief Steward 2024 and 2025, current Area Chief Steward –  Materials Science and Engineering, McCormick
 
-*Jyontika Kapoor, Local Steward Statistics + Data Science, Weinberg STEM
+Rivaan Kakkaramadam, former Recording & Data Secretary 2025, former Communications Secretary 2024, former Constitution Committee 2024, current Local Steward, Member & Co-Founder of Trans Rights Working Group – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
-*Vineet Xie-Gupta, Local Steward Sociology, former Constitution Committee member
+Divjyot Singh, former Division Chief Steward 2024, current Area Chief Steward – Engineering Sciences and Applied Mathematics, McCormick
 
-Megan Burns, Area Chief Steward, Weinberg HSS, SESP, SPS
+Madeleine Vessely, former Division Chief Steward 2024 and 2025, current Area Chief Steward – Driskill Graduate Program in Life Sciences, Feinberg
 
-Lourdes Ixtzai Castillo Silva, Local Steward Psychology, Weinberg HSS, SESP, SPS
+Drew Weidner, former Bargaining Committee 2024, current Local Steward – Chemical and Biological Engineering, McCormick
 
-Tisha Dash, Chair of Healthcare and Accessibility Working Group, Local Steward IBIS, Weinberg STEM, Co-VP for Graduate International Student Association (GISA)
+*Vineet Xie-Gupta, former Constitution Committee 2024, current Local Steward – Sociology, Weinberg HSS/SESP/SPS
 
-Kylie Davis, Local Steward Psychology, Weinberg HSS, SESP, SPS
+## Stewards, Organizers, & Members
 
-Taylor Domingos, Chair of Title IX Working Group
+*Jyontika Kapoor, Local Steward – Statistics + Data Science, Weinberg STEM
 
-Jorin Graham, former chair of International Working Group (DIAS), former chair of Walkthrough Team, former Local Steward and DO in Physics & Astronomy
+Megan Burns, Area Chief Steward – Psychology, Weinberg HSS/SESP/SPS
 
-Matthew Johnson, Bienen School of Music, Music Performance
+Lourdes Ixtzai Castillo Silva, Local Steward – Psychology, Weinberg HSS/SESP/SPS
 
-Matthew Lucia, Chemical and Biological Engineering Area Chief Steward
+Kylie Davis, Local Steward – Psychology, Weinberg HSS/SESP/SPS
 
-Aaron Scheiner, Local Steward ESAM, McCormick
+Matthew Johnson – Music Performance, Bienen School of Music
 
-Gabriel Sánchez Ainsa, Local Steward Philosophy, Weinberg HSS, SESP, SPS
+Matthew Lucia, Area Chief Steward – Chemical and Biological Engineering, McCormick
 
-Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward for IBiS/PBC
+Aaron Scheiner, Local Steward – Engineering Sciences and Applied Mathematics, McCormick
 
-Hardeep Singh, DIAS participant, rank and file member
+Gabriel Sánchez Ainsa, Local Steward – Philosophy, Weinberg HSS/SESP/SPS 
 
-Xudong Tang, local steward in CS
+Hardeep Singh, Member of International Working Group (DIAS) – Physics & Astronomy, Weinberg STEM
 
-Hrag Vosgerichian, rank and file member, Kellogg
+Xudong Tang, Local Steward – Computer Science, McCormick
+
+Hrag Vosgerichian – Management and Organizations, Kellogg
 
 
 
