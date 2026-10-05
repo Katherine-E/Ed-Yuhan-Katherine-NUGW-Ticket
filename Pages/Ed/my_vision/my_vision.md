@@ -2,7 +2,7 @@
 layout: default
 title: My Vision
 parent: Ed for President
-nav_order: 2
+nav_order: 3
 ---
 
 # My Vision
