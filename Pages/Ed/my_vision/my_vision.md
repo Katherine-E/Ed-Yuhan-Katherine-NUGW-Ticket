@@ -5,7 +5,7 @@ parent: Ed for President
 nav_order: 3
 ---
 
-# President's Vision
+# Ed's Vision as Your President
 
 ## A leader is only as good as their ability to trust in the people around them
 We are a union of three thousand people, and the work done by our union is through all of us. I have an unwavering trust that the members of NUGW collectively want to do the work that makes us so powerful and have the ability to complete it. It will be my job as president to ensure this work gets done through delegation and coordination. After all, many hands make light work!
