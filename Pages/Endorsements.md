@@ -55,6 +55,8 @@ Drew Weidner, former Bargaining Committee 2024, current Local Steward – Chemic
 
 *Vineet Xie-Gupta, former Constitution Committee 2024, current Local Steward – Sociology, Weinberg HSS/SESP/SPS
 
+Heather White, former Constitution Committee 2024, former Local Steward – Mechanical Engineering. 
+
 ## Stewards, Organizers, & Members
 
 *Jyontika Kapoor, Local Steward – Statistics + Data Science, Weinberg STEM
