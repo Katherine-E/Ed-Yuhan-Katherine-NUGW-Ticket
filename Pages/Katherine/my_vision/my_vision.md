@@ -5,7 +5,7 @@ parent: Katherine for Campus Chief Steward
 nav_order: 3
 ---
 
-# Katherine's Vision as Your Campus Chief Steward
+# Campus Chief Steward's Vision
 
 As Campus Chief Steward (CCS), I will work closely with our Division Chief Stewards (DCS) to build an organizing infrastructure to fight for the contract we deserve. This involves at least three big focuses: 
 
