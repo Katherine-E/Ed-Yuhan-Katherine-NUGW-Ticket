@@ -39,7 +39,7 @@ On this site you can find out more about us and our candidate statements with mo
 <div class="contact">
   <h1>Our collective vision for the upcoming year</h1>
   <p>
-    We believe that securing the best possible contract requires the engagement of every worker in our union. <b>You deserve transparency and the tools to shape your union’s policies and priorities—and this is the best path to winning the contract you need and deserve.</b> If you have any questions, comments, or concerns, reach out to any of us!
+    We believe that securing the best possible contract requires the engagement of every worker in our union. <b>You deserve transparency and the tools to shape your union’s policies and priorities—and this is the best path to winning the contract you need and deserve.</b> If you have any questions, comments, or concerns, reach out to <a href="mailto:edward.skrabacz@u.northwestern.edu">any</a> <a href="mailto:YuhanZhang2029@u.northwestern.edu">of</a> <a href="mailto:katell@u.northwestern.edu">us</a>!
   </p>
 
   <h2>Building a member-run union</h2>
