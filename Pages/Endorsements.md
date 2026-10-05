@@ -37,7 +37,9 @@ Jorin Graham, former Chair of International Working Group (DIAS), former Chair o
 
 Cale Severude, Chair of Trans Rights Working Group, Area Chief Steward – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
-## Former Executive Board, Bargaining Committee, Constitution Committee Members
+## Former Executive Board, Bargaining Committee, Organizing Committee, Constitution Committee Members
+
+Jake Cohen, former Secretary 2024 - Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
 Peter Cummings, former Campus Chief Steward 2025, former Bargaining Committee 2024, former Area Chief Steward 2024, current Local Steward – Clinical Psychology, Feinberg
 
