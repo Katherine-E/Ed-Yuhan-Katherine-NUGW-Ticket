@@ -5,7 +5,7 @@ parent: Yuhan for Vice President for Membership
 nav_order: 3
 ---
 
-# Vice President for Membership's Vision
+# Yuhan's Vision as Your Vice President for Membership
 
 ## Connect and coordinate across campus
 The VP is for membership. The most important thing is to make sure that people are willing or even excited to join organizing, or at least take the responsibility of paying dues. Along the spectrum of being enthusiastic and doing the bare minimum of paying dues, there’re so many different levels of involvement. My job is to work with the stewards and organizers at every level (campus chief, division chief, local stewards, department organizers) to inspire everyone to take one step beyond where they’re currently at.
