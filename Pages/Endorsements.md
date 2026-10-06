@@ -13,15 +13,15 @@ We’re proud to share that our coalition has earned endorsements from Chairs of
 
 *Erin Hugee, Communications Secretary – Psychology, Weinberg HSS/SESP/SPS
 
+Yara Maalouf, Vice President for Membership – Chemical and Biological Engineering, McCormick
+
+Genevieve Nemeth, Division Chief Steward, former Area Chief Steward 2024 and 2025 – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
+
 *Sam Ozminkowski, Treasurer, Local Steward – Statistics + Data Science, Weinberg STEM
 
 *Abhi Ramakrishnan, Division Chief Steward – Driskill Graduate Program in Life Sciences, Feinberg
 
 *Pallavi Sundaram, Division Chief Steward, former Local Steward 2025 – Materials Science & Engineering, McCormick
-
-Yara Maalouf, Vice President for Membership – Chemical and Biological Engineering, McCormick
-
-Genevieve Nemeth, Division Chief Steward, former Area Chief Steward 2024 and 2025 – Interdisciplinary Biological Sciences Graduate Program, Weinberg STEM
 
 Ziza Nshakira, Financial Secretary – Screen Cultures, School of Communication
 
