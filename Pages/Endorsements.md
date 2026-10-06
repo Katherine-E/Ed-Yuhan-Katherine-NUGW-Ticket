@@ -53,21 +53,23 @@ Madeleine Vessely, former Division Chief Steward 2024 and 2025, current Area Chi
 
 Drew Weidner, former Bargaining Committee 2024, current Local Steward – Chemical and Biological Engineering, McCormick
 
+Heather White, former Constitution Committee 2024, former Local Steward – Mechanical Engineering, McCormick
+
 *Vineet Xie-Gupta, former Constitution Committee 2024, current Local Steward – Sociology, Weinberg HSS/SESP/SPS
 
-Heather White, former Constitution Committee 2024, former Local Steward – Mechanical Engineering. 
-
 ## Stewards, Organizers, & Members
-
-*Jyontika Kapoor, Local Steward – Statistics + Data Science, Weinberg STEM
 
 Megan Burns, Area Chief Steward – Psychology, Weinberg HSS/SESP/SPS
 
 Lourdes Ixtzai Castillo Silva, Local Steward – Psychology, Weinberg HSS/SESP/SPS
 
+Ryan Chatterjee, Area Chief Steward – Mathematics, Weinberg STEM
+
 Kylie Davis, Local Steward – Psychology, Weinberg HSS/SESP/SPS
 
 Matthew Johnson – Music Performance, Bienen School of Music
+
+*Jyontika Kapoor, Local Steward – Statistics + Data Science, Weinberg STEM
 
 Matthew Lucia, Area Chief Steward – Chemical and Biological Engineering, McCormick
 
