@@ -59,7 +59,7 @@ Heather White, former Constitution Committee 2024, former Local Steward – Mech
 
 ## Stewards, Organizers, & Members
 
-Nate Blum, Local Steward – Civil and Environmental Engineering, McCormick
+*Nate Blum, Local Steward – Civil and Environmental Engineering, McCormick
 
 Megan Burns, Area Chief Steward – Psychology, Weinberg HSS/SESP/SPS
 
