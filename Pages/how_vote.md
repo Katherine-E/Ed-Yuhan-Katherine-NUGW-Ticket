@@ -9,9 +9,11 @@ nav_order: 6
 
 2. Look for an email with the subject line **“Vote now: NUGW-UE Local 1122 - 2027 NUGW-UE Local 1122 Executive Board and Trustees”** 
 that was sent to one of your inboxes. The email will be sent from invitations@mail.electionbuddy.com 
-(ElectionBuddy is a platform NUGW uses to run secure elections).
+(ElectionBuddy is a platform NUGW uses to run secure elections). The email body will begin as the following:
 
- * *Make sure that you’re looking at an email that says the ballot is for the 2027 Board+Trustees and that the voting deadline is Oct 9 2026 11:59 PM (outlined in red above)!*
+<img src="../Photos/Ballot_Beginning.png" width="200" alt="Ballot Beginning">
+
+ * **Make sure that you’re looking at an email that says the ballot is for the 2027 Board+Trustees and that the voting deadline is Oct 9 2026 11:59 PM (outlined in red above)!**
    
  * _What’s the timestamp you should look for for your ballot email?_
    
