@@ -86,7 +86,7 @@
     width: 100%;
     height: auto;
     aspect-ratio: 3 / 2;
-    object-fit: cover;
+    object-fit: contain;
     object-position: 50% 20%; // keep faces in frame when cropping portraits
   }
 }
