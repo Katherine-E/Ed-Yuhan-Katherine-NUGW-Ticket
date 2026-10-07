@@ -11,7 +11,7 @@ nav_order: 6
 that was sent to one of your inboxes. The email will be sent from invitations@mail.electionbuddy.com 
 (ElectionBuddy is a platform NUGW uses to run secure elections). The email body will begin as the following:
 
-<img src="../Photos/Ballot_Beginning.png" width="300" alt="Ballot Beginning">
+<img src="../Photos/Ballot_Beginning.png" width="400" style="height: auto !important;" alt="Ballot Beginning">
 
  * **Make sure that you’re looking at an email that says the ballot is for the 2027 Board+Trustees and that the voting deadline is Oct 9 2026 11:59 PM (outlined in red above)!**
    
