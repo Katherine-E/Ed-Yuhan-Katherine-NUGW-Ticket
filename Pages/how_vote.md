@@ -11,7 +11,7 @@ nav_order: 6
 that was sent to one of your inboxes. The email will be sent from invitations@mail.electionbuddy.com 
 (ElectionBuddy is a platform NUGW uses to run secure elections). The email body will begin as the following:
 
-<img src="../Photos/Ballot_Beginning.png" width="200" alt="Ballot Beginning">
+<img src="../Photos/Ballot_Beginning.png" width="300" alt="Ballot Beginning">
 
  * **Make sure that you’re looking at an email that says the ballot is for the 2027 Board+Trustees and that the voting deadline is Oct 9 2026 11:59 PM (outlined in red above)!**
    
@@ -27,7 +27,7 @@ If you’d like to know what email address is listed as your primary email addre
 
  * _If you can’t find the email containing your ballot:_
    
-   -**Check your trash/junk/spam folders! Some members like you found it there.**
+   - **Check your trash/junk/spam folders! Some members like you found it there.**
    - If you **still** can’t find it:
      +Email [recording.secretary@nugradworkers.org](mailto:recording.secretary@nugradworkers.org) to let the Election Committee know so that they send you a fresh ballot in their next wave of rolling ballots!
      Reminder that **only NUGW-UE Local 1122 members are allowed to vote**, so if you haven’t already signed up to be a member, be sure to do so before reaching out to the EC! You can sign up to be a member here: [https://nugwunion.org/sign-a-member-card/](https://nugwunion.org/sign-a-member-card/)
