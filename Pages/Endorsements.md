@@ -85,6 +85,7 @@ Xudong Tang, Local Steward – Computer Science, McCormick
 
 Hrag Vosgerichian – Management and Organizations, Kellogg
 
+Mia Boyer-Edwards, former Area Chief Steward – Management and Organizations, Kellogg
 
 
 
