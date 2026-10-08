@@ -61,6 +61,8 @@ Heather White, former Constitution Committee 2024, former Local Steward – Mech
 
 *Nate Blum, Local Steward – Civil and Environmental Engineering, McCormick
 
+Mia Boyer-Edwards, former Area Chief Steward – Management and Organizations, Kellogg
+
 Megan Burns, Area Chief Steward – Psychology, Weinberg HSS/SESP/SPS
 
 Lourdes Ixtzai Castillo Silva, Local Steward – Psychology, Weinberg HSS/SESP/SPS
@@ -84,8 +86,6 @@ Hardeep Singh, Member of International Working Group (DIAS) – Physics & Astron
 Xudong Tang, Local Steward – Computer Science, McCormick
 
 Hrag Vosgerichian – Management and Organizations, Kellogg
-
-Mia Boyer-Edwards, former Area Chief Steward – Management and Organizations, Kellogg
 
 
 
